@@ -1,0 +1,79 @@
+help
+Ok! 
+
+ 
+err
+Ok! 
+
+ 
+not
+Ok! 
+
+ 
+work
+Ok! 
+
+ 
+lsa;f
+Misspelled! 
+
+ 
+mik
+Misspelled! 
+
+ 
+test
+Ok! 
+
+
+ 
+help
+Ok! 
+
+
+ 
+work
+Ok! 
+
+
+ 
+ÿôÿýMisspelled! 
+
+
+ 
+ÿûMisspelled! 
+
+
+ 
+
+test
+Ok! 
+
+
+ 
+
+now
+Ok! 
+
+
+ 
+
+ÿôÿýMisspelled! 
+
+
+ 
+
+ÿûMisspelled! 
+
+
+ 
+
+ÿôÿýMisspelled! 
+
+
+ 
+
+ÿûMisspelled! 
+
+
+ 

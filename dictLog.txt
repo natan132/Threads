@@ -1,0 +1,119 @@
+
+test
+Ok! 
+
+ 
+
+word
+Ok! 
+
+ 
+
+fine
+Ok! 
+
+ 
+
+ÿôÿýMisspelled! 
+
+ 
+
+ÿûMisspelled! 
+
+ 
+
+test
+Misspelled! 
+
+ 
+
+what
+Misspelled! 
+
+ 
+
+ÿôÿýMisspelled! 
+
+ 
+
+ÿûMisspelled! 
+
+ 
+
+test
+Ok! 
+
+ 
+
+what
+Ok! 
+
+ 
+
+is
+Ok! 
+
+ 
+
+going
+Ok! 
+
+ 
+
+on
+Ok! 
+
+ 
+
+test
+Ok! 
+
+ 
+
+one
+Ok! 
+
+ 
+
+two
+Ok! 
+
+ 
+
+three
+Ok! 
+
+ 
+
+ÿôÿýMisspelled! 
+
+ 
+
+ÿûMisspelled! 
+
+ 
+
+test
+Ok! 
+
+ 
+
+great
+Ok! 
+
+ 
+
+wonderful
+Ok! 
+
+ 
+
+test
+Ok! 
+
+ 
+
+work
+Ok! 
+
+ 
